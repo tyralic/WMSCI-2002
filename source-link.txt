@@ -1,0 +1,10 @@
+日本-国立国会図書館-link
+https://ndlsearch.ndl.go.jp/books/R100000002-I000004135687?select=13489506#archive
+
+德国-TIB( Leibniz-Informationszentrum Technik und Naturwissenschaften und Universitätsbibliothek)-link
+
+https://www.tib.eu/de/suchen?id=198&tx_tibsearch_search%5Bquery%5D=Proceedings+%2F%2F+the+6th+World+Multiconference+on+Systemics%2C+Cybernetics+and+Informatics+%3A+July+14+-+18%2C+2002%2C+Orlando%2C+Florida%2C+USA%3B+%5Bjointly+with+the+8th+International+Conference+on+Information+Systems+Analysis+and+Synthesis&tx_tibsearch_search%5Bcnt%5D=20&tx_tibsearch_search%5BgroupField%5D=matchTitleTypeFirstAuthor_str&tx_tibsearch_search%5Bbegin%5D=2002&tx_tibsearch_search%5Bend%5D=2002
+
+中国-国家图书馆-link
+http://opac.nlc.cn/F/YGRBHH5X9I25F58756YPFQA4R3IQGRGR7YCEL8LLIJN1FRC1KR-10571?find_base=NLC01&find_base=NLC09&func=find-m&find_code=ISB&request=9800781501&local_base=&filter_code_1=WLN&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WFM&filter_request_4=&filter_code_5=WSL&filter_request_5=
+
